@@ -22,7 +22,7 @@ website:
       - icon: envelope
         href: lizongzhang9@qq.com
   page-footer:
-    right: "Econometrics"
+    right: "Data puzzles; econometrics solves."
     left: "&copy; Copyright 2024, Li Zongzhang"
 format:
   html:
