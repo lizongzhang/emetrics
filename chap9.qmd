@@ -1,0 +1,8 @@
+---
+title: "第9章"
+---
+
+<h1 style="color: #044875;"> 第9章 异方差 </h1>
+
+-   [讲义](https://lizongzhang.github.io/ee4/chap9.html)
+
