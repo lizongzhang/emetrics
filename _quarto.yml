@@ -22,13 +22,13 @@ website:
       - icon: envelope
         href: lizongzhang9@qq.com
   page-footer:
-    right: "Statistics: turning data into insights."
+    right: "Econometrics"
     left: "&copy; Copyright 2024, Li Zongzhang"
 format:
   html:
     theme: 
       light: [yeti, theme_light.scss]
-      #dark: [darkly, theme_dark.scss]
+      dark: [darkly, theme_dark.scss]
     toc: true
     number_sections: true
 editor: source
