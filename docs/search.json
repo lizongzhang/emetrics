@@ -4,28 +4,28 @@
     "href": "chap5.html",
     "title": "第5章",
     "section": "",
-    "text": "讲义\nEviews\n\nEviews中双对数模型的估计\nEviews中对数-线性模型的估计\nEviews 多项式、双对数、倒数模型\nEviews时间序列趋势分析——对数线性模型和线性趋势模型"
+    "text": "第5章 函数形式变换\n讲义\n\n\nEviews操作\nEviews中双对数模型的估计\nEviews中对数-线性模型的估计\nEviews中如何计算Y的估计值？\nEviews时间序列趋势分析——对数线性模型和线性趋势模型\nEviews 多项式、双对数、倒数模型"
   },
   {
     "objectID": "chap6.html",
     "href": "chap6.html",
     "title": "第6章",
     "section": "",
-    "text": "讲义"
+    "text": "第6章 虚拟变量\n讲义\n\n\nEviews操作\nEviews中如何引入虚拟变量？\nEviews 如何引入虚拟变量和定量变量的交互项？\nEviews 季节分析中的虚拟变量"
   },
   {
     "objectID": "chap3.html",
     "href": "chap3.html",
     "title": "第3章",
     "section": "",
-    "text": "讲义"
+    "text": "第3章 一元回归\n讲义\n\n\nEviews操作\nEviews series的操作\nEviews group的操作\nEviews 导入EXCEL文件\nEviews 绘制散点图\nEviews 估计回归方程"
   },
   {
     "objectID": "chap2.html",
     "href": "chap2.html",
     "title": "第2章",
     "section": "",
-    "text": "讲义\n\nEviews教学视频\nEviews12 如何录入数据\nEviews 12 如何导入Excel文件\nEviews 12 主界面\nEviews12 绘制散点图\nEviews12 矩阵散点图和气泡图\nEviews12 回归方程的估计\nEviews12 如何在散点图上添加回归线和回归方程？\nEviews12 如何修改坐标轴字体、添加网格线、设置边框？"
+    "text": "第2章 古典线性回归模型\n讲义\n\n\nEviews教学视频\nEviews12 如何录入数据\nEviews 12 如何导入Excel文件\nEviews 12 主界面\nEviews12 绘制散点图\nEviews12 矩阵散点图和气泡图\nEviews12 回归方程的估计\nEviews12 如何在散点图上添加回归线和回归方程？\nEviews12 如何修改坐标轴字体、添加网格线、设置边框？"
   },
   {
     "objectID": "case1pre.html#数据和变量",
@@ -151,21 +151,21 @@
     "href": "chap10.html",
     "title": "第10章",
     "section": "",
-    "text": "第10章 自相关\n\n\n讲义"
+    "text": "第10章 自相关\n讲义\n\n\nEviews操作\nEviews 自相关的图形诊断\nEviews 自相关LM检验\nEviews 广义差分变换\nEviews 自相关下标准误的Neway-West校正"
   },
   {
     "objectID": "chap9.html",
     "href": "chap9.html",
     "title": "第9章",
     "section": "",
-    "text": "第9章 异方差\n\n\n讲义"
+    "text": "第9章 异方差\n讲义\n\n\nEviews操作\nEviews 残差的图形诊断\nEviews 异方差检验\nEviews 加权最小二乘\nEviews 怀特异方差校正值"
   },
   {
     "objectID": "chap8.html",
     "href": "chap8.html",
     "title": "第8章",
     "section": "",
-    "text": "第8章 多重共线性\n\n\n讲义"
+    "text": "第9章 多重共线性\n讲义\n\n\nEviews操作\nEviews 多重共线性"
   },
   {
     "objectID": "case2pre.html#数据和变量",
@@ -459,13 +459,13 @@
     "href": "chap7.html",
     "title": "第7章",
     "section": "",
-    "text": "讲义"
+    "text": "第7章 设定误差检验\n讲义\n\n\nEviews操作\nEviews遗漏或多余变量的检验\nEviews reset检验"
   },
   {
     "objectID": "chap4.html",
     "href": "chap4.html",
     "title": "第4章",
     "section": "",
-    "text": "讲义\n案例\nEviews\n\nEviews 多元回归\nEviews 受限最小二乘\nEviews 输出结果数值显示格式的设置"
+    "text": "第4章 多元回归\n讲义\n案例\n\n\nEviews操作\nEviews 多元回归\nEviews 受限最小二乘\nEviews 输出结果数值显示格式的设置"
   }
 ]
